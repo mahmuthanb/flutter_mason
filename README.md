@@ -77,4 +77,4 @@ flutter config --enable-windows-desktop
 
 > Check official [mason-cli](https://docs.bymason.com/) and [brickhub](https://docs.brickhub.dev/) pages to be up-to-date
 
-> Thanks for using bricks from my repo. You can star my repo 
+> Thanks for using bricks from my repo. You can star the repo to support me.
