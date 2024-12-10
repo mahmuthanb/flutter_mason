@@ -1,4 +1,4 @@
-# Quick Start 💥
+# Quick Start Guide
 
 ## 🎯 Activate from https://pub.dev
 ```
