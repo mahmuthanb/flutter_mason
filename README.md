@@ -40,9 +40,8 @@ Here you can automatically create these platform folders with this basic command
 flutter create .
 ```
 
-## ⚠️ WARNING ⚠️ 
 > [!IMPORTANT]  
-> This command will create missing platforms according to the flutter config that means default config comes with all platforms are genereted with upper command like macos, windows, linux, web. ([see one level lower topic to change the config](#flutter-default-settings-disable-commands)) 
+> This command will create missing platforms according to the flutter config that means default config comes with all platforms are genereted with upper command like macos, windows, linux, web. ([see below to change the config](#flutter-default-settings-disable-commands)) 
 
 ## Flutter default settings disable commands
 You can simply create flutter project with the command below to see which platforms are generated default. 
