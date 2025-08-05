@@ -44,6 +44,7 @@ dev_dependencies:
   route_map_generator: ^0.0.17
   flutter_launcher_icons: ^0.14.2
 flutter:
+  generate: true
   uses-material-design: true
   assets:
     - assets/images/
